@@ -29,4 +29,4 @@
 
 # Schaltplänschär
 
-https://github.com/DonKingMat/GF1/blob/main/GF1_Buzzer_Schaltplan.jpeg
+![Alt Schaltplänschär](GF1_Buzzer_Schaltplan.jpeg)
