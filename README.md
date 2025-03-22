@@ -1,3 +1,5 @@
+
+
 # GF1 Buzzer Bauplänschär
 
 
@@ -30,3 +32,23 @@
 # Schaltplänschär
 
 ![Alt Schaltplänschär](GF1_Buzzer_Schaltplan.jpeg)
+
+
+# Gallerie
+
+## Materiallieferung
+![Alt Schaltplänschär](01_MVP_Materialeingang.jpeg)
+
+## Vorbereitung
+![Alt Schaltplänschär](02_MVP_Vorbereitung.jpeg)
+
+## Positionierung
+![Alt Schaltplänschär](03_MVP_Poitionierungsvorbereitung.jpeg)
+
+## Funktionstest
+![Alt Schaltplänschär](04_MVP_Funktionstest.jpeg)
+
+# FINALLY...!
+
+## Erstauslieferung
+![Alt Schaltplänschär](05_GF1_Buzzer_Erstauslieferung.jpeg)
